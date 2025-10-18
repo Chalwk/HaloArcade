@@ -1,6 +1,7 @@
 # HaloArcade
 
-A top-down shooter game built with Love2D, inspired by the Halo universe. Pilot a Spartan through waves of Covenant enemies while mastering different weapons and power-ups.
+A top-down shooter game built with Love2D, inspired by the Halo universe. Pilot a Spartan through waves of Covenant
+enemies while mastering different weapons and power-ups.
 
 ## Features
 
@@ -12,6 +13,7 @@ A top-down shooter game built with Love2D, inspired by the Halo universe. Pilot 
 - **Visual Effects**: Particle explosions and plasma trails
 
 ### Controls
+
 - **WASD**: Move player
 - **Space**: Fire weapon
 - **1/2/3**: Switch weapons
